@@ -1,3 +1,3 @@
-FROM mariadb:11
+FROM mariadb:latest
 
 ENV TZ=Asia/Seoul
